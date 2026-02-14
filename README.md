@@ -162,8 +162,8 @@ Sophiie senior engineers and CTO. Judging will take place over a 2-week period f
 
 | Field | Your Answer |
 |-------|-------------|
-| **Name** | |
-| **University / Employer** | |
+| **Name** | Ayesha Mansuri |
+| **University / Employer** | University of Sydney|
 
 ### Project
 
